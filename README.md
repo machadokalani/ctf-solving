@@ -32,10 +32,8 @@ que documenta a infraestrutura de detecção que eu mesmo construo e opero
 
 | Máquina | Plataforma | Dificuldade | Temas | Writeup |
 |---|---|---|---|---|
-| Appointment | HTB | Very Easy | SQL Injection (bypass de login) | [Ver](writeups/htb/appointment/appointment.md) |
-| Sequel | HTB | Very Easy | MySQL/MariaDB exposto, enumeração de banco | [Ver](writeups/htb/sequel/sequel.md) |
-| Crocodile | HTB | Very Easy | FTP anônimo, credential harvesting, gobuster | [Ver](writeups/htb/crocodile/crocodile.md) |
-| Responder | HTB | Easy | LFI/RFI, captura de NTLMv2 (Responder), crack com John, WinRM | [Ver](writeups/htb/responder/responder.md) |
+| EM ANDAMENTO | [Ver](writeups/htb/appointment/appointment.md) |
+
 
 ## Ética e escopo
 

@@ -1,4 +1,4 @@
-# ctf-solving
+# CTF-SOLVING
 
 Writeups de máquinas CTF (Hack The Box e outras plataformas) com o raciocínio
 por trás de cada passo, mais uma seção de detecção blue team: como cada ataque
@@ -28,11 +28,22 @@ que documenta a infraestrutura de detecção que eu mesmo construo e opero
 - **`writeups/`** — os writeups, organizados por plataforma. Cada máquina é
   uma pasta autocontida, com seu texto e suas imagens.
 
+## Navegação
+
+### Metodologia
+- [Playbook Rápido](methodology/playbook-quick.md) — bússola de raciocínio para consulta durante um box
+- [Metodologia Completa](methodology/playbook-methodology.md) — o modelo mental por extenso, fase a fase, com o apêndice de detecção blue team
+
+### Writeups
+Em breve. Os writeups aplicam a metodologia acima de forma deliberada,
+documentando o raciocínio passo a passo e fechando cada um com a
+perspectiva de detecção defensiva. O primeiro está em produção.
+
 ## Máquinas resolvidas
 
 | Máquina | Plataforma | Dificuldade | Temas | Writeup |
 |---|---|---|---|---|
-| EM ANDAMENTO | [Ver](writeups/htb/appointment/appointment.md) |
+
 
 
 ## Ética e escopo

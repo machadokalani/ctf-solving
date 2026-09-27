@@ -35,15 +35,15 @@ que documenta a infraestrutura de detecção que eu mesmo construo e opero
 - [Metodologia Completa](methodology/playbook-methodology.md) — o modelo mental por extenso, fase a fase, com o apêndice de detecção blue team
 
 ### Writeups
-Em breve. Os writeups aplicam a metodologia acima de forma deliberada,
-documentando o raciocínio passo a passo e fechando cada um com a
-perspectiva de detecção defensiva. O primeiro está em produção.
+Os writeups aplicam a metodologia acima de forma deliberada, documentando o
+raciocínio passo a passo e fechando cada um com a perspectiva de detecção
+defensiva. Veja a lista completa em [Máquinas resolvidas](#máquinas-resolvidas).
 
 ## Máquinas resolvidas
 
 | Máquina | Plataforma | Dificuldade | Temas | Writeup |
-|---|---|---|---|---|
-
+| ------- | ---------- | ----------- | ----- | ------- |
+| Three | Hack The Box | Very Easy | AWS S3 mal configurado, web shell PHP, RCE | [Ver](writeups/three-htb.md) |
 
 
 ## Ética e escopo

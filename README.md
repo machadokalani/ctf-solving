@@ -44,6 +44,7 @@ defensiva. Veja a lista completa em [Máquinas resolvidas](#máquinas-resolvidas
 | Máquina | Plataforma | Dificuldade | Temas | Writeup |
 | ------- | ---------- | ----------- | ----- | ------- |
 | Three | Hack The Box | Very Easy | AWS S3 mal configurado, web shell PHP, RCE | [Ver](writeups/three-htb.md) |
+| Vaccine | Hack The Box | Very Easy | FTP anônimo, quebra de hash de ZIP, SQL injection, escalada via sudo/GTFOBins | [Ver](writeups/vaccine-htb.md) |
 
 
 ## Ética e escopo
